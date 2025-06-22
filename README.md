@@ -1,2 +1,2 @@
-# fivefoldfury
+# FiveFold Fury
 Fast. Furious. Unforgiving.
